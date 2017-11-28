@@ -1,2 +1,1 @@
 # ngTodo
-todo app
